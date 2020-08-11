@@ -1,2 +1,8 @@
-# proyecto-php-web-radio
-Puedes ver más del proyecto en https://rivasdev.tech/publicaciones/Sitio-web-para-radio-en-PHP,-MySQL-y-JavaScript.
+# Instalación de la aplicación web PHP/PDO/MYSQL
+- clonar el repositorio
+- crear la base de datos
+- abrir la aplicación web
+# Install the web app PHP/PDO/MYSQL
+- clone this repository
+- create database
+- open the web app
